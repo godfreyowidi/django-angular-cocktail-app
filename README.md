@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ff5521d8-1c7e-411a-80fc-f7e132716220/deploy-status)](https://app.netlify.com/sites/django-angular-cocktail-app/deploys)
 # About The Project
 ![main image](front.jpg)
 
@@ -17,6 +17,7 @@
 ## Built With
 - [Python](https://www.python.org/)
 - [Django](https://www.djangoproject.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 - [Sqlite3](https://www.sqlite.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [JQuery](https://jquery.com/)
